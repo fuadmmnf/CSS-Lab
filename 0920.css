@@ -1,0 +1,98 @@
+p
+{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+a
+{
+	
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.page_links a
+{
+	text-decoration: none;
+}
+
+.page_links a:hover
+{
+	text-decoration: underline;
+}
+
+.page_links a:active
+{
+	color: black;
+}
+
+.page_links a:visited
+{
+	color: purple;
+}
+
+
+body
+{
+	background-color: grey;
+	font: sans-serif;
+	font-size: 15px;
+}
+
+ol
+{
+	
+	list-style-image: url(http://tympanus.net/codrops-playground/assets/images/cssref/pseudo/list-style-image/list-style-image.png);
+}
+
+ul
+{
+	list-style-image: url(http://tympanus.net/codrops-playground/assets/images/cssref/pseudo/list-style-image/list-style-image-2.png)
+}
+
+.main_body
+{
+	text-align: center;
+	margin: auto;
+	width: 650px;
+	background-color: white;
+}
+.images
+{
+	text-align: center;
+}
+
+.page_links
+{
+	text-align: center;
+}
+.pages
+{
+	text-align: right;
+}
+.footer
+{
+	text-align: center;
+	vertical-align: bottom;
+	clear: both;
+	font-size: 13px;
+}
+
+.description
+{
+	float: left;
+	width: 350px;
+	
+}
+
+table, th, td
+{
+	border-collapse: collapse;
+	border: 1px solid black ;
+}
+
+
+.body_justified
+{
+	text-align: justify;
+}
